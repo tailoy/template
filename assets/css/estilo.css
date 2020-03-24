@@ -1,0 +1,12 @@
+
+.panel_login {
+    margin-top:10%;
+    margin-left:25%;
+    margin-right:25%;
+    border-radius: 24px;
+    background-color: #FFE002;
+    padding-bottom: 50px;
+}
+.title_login{
+    font-size: 60px;
+}
